@@ -16,9 +16,6 @@ _"Reposición de compra y gasto"_
 10. Citas y Referencias bibliográficas
 
 # Introducción
-ssjsjsjsjs algo.dddiudjdjdidiod
-
-si cambio???
 
 Debemos de darnos cuenta que todos los departamentos de la misma se relacionan entre sí por lo que se forma un sistema es decir se convierten en un conjunto de elementos para lograr un fin o un objetivo en común que es producir con buena calidad, cumplir con las especificaciones del cliente así como también entregar en tiempo y forma.
 Si nos damos cuenta el acción de comprar lo realizamos cotidianamente sin darnos cuentas pues ya se convirtió en algo normal para nosotros, pero en una empresa es de gran importancia pues implica costos, requerimientos, material, stock, presupuestos, almacén, producción es decir la mayor parte de la empresa se relaciona con compras.
