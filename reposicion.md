@@ -24,7 +24,7 @@ Si nos damos cuenta el acción de comprar lo realizamos cotidianamente sin darno
 
 # Identificación y delimitación del problema.
 
-
+ _El reembolso de gastos incurridos por el trabajador para el desarrollo de actividades propias de su relación laboral, son pagos que no constituyen salario y que no están sometidos a retención en la fuente por no constituir ingreso para el contribuyente.En cumplimiento de sus funciones, los trabajadores pueden incurrir en gastos que posteriormente la empresa se los reembolsa. Estos pagos no constituyen ingreso para el trabajador, toda vez que no enriquecen su patrimonio, sino que simplemente están devolviendo al trabajador algo que debió invertir para poder realizar una actividad relacionada y necesaria en el desempeño de las funciones para las que fue contratado por la empresa, por tanto es responsabilidad de la empresa correr con estas erogaciones, y si es el trabajador el que las ha cubierto, debe la empresa proceder a reembolsarlas_.
 
 # Justificación del estudio.
 
@@ -40,13 +40,14 @@ Cada uno de los departamentos que requieran efectuar comprobacion de gastos e in
 * Establecer lineamientos y procedimientos, asi como estandarizar y optimizar el control de las cuentas de gastos generadas por el personal autorizado. 
 * Tener un criterio de registro que permita obtener informacion homogénea y confiable.
 
-# Antecedentes
+# Antecedentes.
+
+
 
 # Metodología
 
 # Recursos materiales y humanos
 
-# Alcances o Metas
 
 # Cronograma
 
