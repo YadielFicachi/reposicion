@@ -35,7 +35,9 @@ Cada uno de los departamentos que requieran efectuar comprobacion de gastos e in
 * _Los Gastos no operativos : Son gastos que se requieren en forma general para el funcinamiento de la empresa, no son claramente identificables en forma especifica con un proyecto y pueden ser aplicable a varios proyectos._
 
 
-# Objetivos.
+# Objetivo General.
+
+## Objetivos Específicos.
 
 * Establecer lineamientos y procedimientos, asi como estandarizar y optimizar el control de las cuentas de gastos generadas por el personal autorizado. 
 * Tener un criterio de registro que permita obtener informacion homogénea y confiable.
