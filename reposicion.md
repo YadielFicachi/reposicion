@@ -17,9 +17,9 @@ _"Reposición de compra y gasto"_
 
 # Introducción
 
-Debemos de darnos cuenta que todos los departamentos de la misma se relacionan entre sí por lo que se forma un sistema es decir se convierten en un conjunto de elementos para lograr un fin o un objetivo en común que es producir con buena calidad, cumplir con las especificaciones del cliente así como también entregar en tiempo y forma.
-Si nos damos cuenta el acción de comprar lo realizamos cotidianamente sin darnos cuentas pues ya se convirtió en algo normal para nosotros, pero en una empresa es de gran importancia pues implica costos, requerimientos, material, stock, presupuestos, almacén, producción es decir la mayor parte de la empresa se relaciona con compras.
-¿Qué significa Compras? Módulo o departamento, dedicado al análisis, control y gestión del Departamento de Compras. A continuación conoceremos a fondo lo ya mencionado.
+En una empresa, debemos de darnos cuenta que todos los departamentos de la misma se relacionan entre sí por lo que se forma un sistema es decir se convierten en un conjunto de elementos para lograr un fin o un objetivo en común que es producir con buena calidad, cumplir con las especificaciones del cliente, así como también entregar en tiempo y forma. Si nos damos cuenta la acción de comprar lo realizamos cotidianamente sin darnos cuenta se ha convertido en algo normal para nosotros, pero en una empresa es de gran importancia pues implica costos, requerimientos, material, stock, presupuestos, almacén, producción es decir la mayor parte de la empresa se relaciona con compras. 
+Así también existe un módulo o departamento, dedicado al análisis, control y gestión del Departamento de Compras.
+
 
 
 # Identificación y delimitación del problema.
