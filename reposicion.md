@@ -24,7 +24,10 @@ Así también existe un módulo o departamento, dedicado al análisis, control y
 
 # Identificación y delimitación del problema.
 
- El reembolso de gastos incurridos por el trabajador para el desarrollo de actividades propias de su relación laboral, son pagos que no constituyen salario y que no están sometidos a retención en la fuente por no constituir ingreso para el contribuyente.En cumplimiento de sus funciones, los trabajadores pueden incurrir en gastos que posteriormente la empresa se los reembolsa. Estos pagos no constituyen ingreso para el trabajador, toda vez que no enriquecen su patrimonio, sino que simplemente están devolviendo al trabajador algo que debió invertir para poder realizar una actividad relacionada y necesaria en el desempeño de las funciones para las que fue contratado por la empresa, por tanto es responsabilidad de la empresa correr con estas erogaciones, y si es el trabajador el que las ha cubierto, debe la empresa proceder a reembolsarlas.
+El reembolso de gastos incurridos por el trabajador para el desarrollo de actividades propias de su relación laboral, son pagos que no constituyen salario y que no están sometidos a retención en la fuente por no constituir ingreso para el contribuyente. En cumplimiento de sus funciones, los trabajadores pueden incurrir en gastos que posteriormente la empresa se los reembolsa. Estos pagos no constituyen ingreso para el trabajador, toda vez que no enriquecen su patrimonio, sino que simplemente están devolviendo al trabajador algo que debió invertir para poder realizar una actividad relacionada y necesaria en el desempeño de las funciones para las que fue contratado por la empresa, por tanto es responsabilidad de la empresa correr con estas erogaciones, y si es el trabajador el que las ha cubierto, debe la empresa proceder a reembolsarlas.
+
+Anteriormente la empresa llevaba a cabo el registro de los folios de reposiciones en hojas a mano, es decir, que por ejemplo cuando un proveedor llegaba y pedía la reposición de gastos, el encargado de la empresa debía asignar un número de folio y poner la cantidad estimada a lapicero en una hoja , para que posteriormente se le diera a la persona que solicitaba y este a su vez subiera al área de finanzas a cobrar, esto llevaba a que en el transcurso que los trabajadores a cargo de pedir la reposición de gastos subían al área incurrían en agregarles cantidades que no habían sido estimadas por la empresa, y así cobrar más de lo debido. 
+
 
 # Justificación del estudio.
 
@@ -37,12 +40,33 @@ Cada uno de los departamentos que requieran efectuar comprobacion de gastos e in
 
 # Objetivo General.
 
+Establecer lineamientos y procedimientos para el control de las cuentas de gastos generados, así como tener un criterio de registro del historial de información de gastos que permita obtener información homogénea y confiable.
+
 ## Objetivos Específicos.
 
-* Establecer lineamientos y procedimientos, asi como estandarizar y optimizar el control de las cuentas de gastos generadas por el personal autorizado. 
-* Tener un criterio de registro que permita obtener informacion homogénea y confiable.
+* Tener el control de las cuentas de gastos generados, por medio de códigos QR, y de claves generados por el sistema.
+* Generar filtros por medio de fechas, para poder obtener los historiales con la información necesaria.
+
 
 # Antecedentes.
+MARCO TEORICO.
+Sistema : (del latín systēma, y este del griego σύστημα sýstēma 'reunión, conjunto, agregado') es un conjunto de componentes que se relacionan con al menos algún otro componente; puede ser material o conceptual. Todos los sistemas tienen composición, estructura y entorno, pero solo los sistemas materiales tienen mecanismo, y solo algunos sistemas materiales tienen figura (forma).
+Aplicación web: Es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
+Estructura de una aplicación web.
+Capa del navegador: Se utilizan para servir los datos adecuados a las necesidades del usuario, en función de cómo hayan sido definidos por el dueño de la aplicación.
+Tecnologías
+•	HTML
+•	CSS
+Capa del servidor: Existen numerosos lenguajes de programación empleados para el desarrollo de aplicaciones web en el servidor, entre los que destacan:
+•	PHP
+•	Java, con sus tecnologías Java Servlets y JavaServer Pages (JSP)
+•	Javascript en su modalidad SSJS: Server Side Javascript (Javascript del lado del servidor).
+•	Perl
+•	Ruby
+•	Python
+•	Node.js
+•	C# y Visual Basic con sus tecnologías ASP/ASP.NET
+Capa de persistencia: Los datos se almacenan en alguna base de datos estándar.
 
 
 
