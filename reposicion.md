@@ -55,17 +55,17 @@ Aplicación web: Es un programa que se codifica en un lenguaje interpretable por
 Estructura de una aplicación web.
 Capa del navegador: Se utilizan para servir los datos adecuados a las necesidades del usuario, en función de cómo hayan sido definidos por el dueño de la aplicación.
 Tecnologías
-•	HTML
-•	CSS
+* HTML
+*	CSS
 Capa del servidor: Existen numerosos lenguajes de programación empleados para el desarrollo de aplicaciones web en el servidor, entre los que destacan:
-•	PHP
-•	Java, con sus tecnologías Java Servlets y JavaServer Pages (JSP)
-•	Javascript en su modalidad SSJS: Server Side Javascript (Javascript del lado del servidor).
-•	Perl
-•	Ruby
-•	Python
-•	Node.js
-•	C# y Visual Basic con sus tecnologías ASP/ASP.NET
+*	PHP
+*	Java, con sus tecnologías Java Servlets y JavaServer Pages (JSP)
+*	Javascript en su modalidad SSJS: Server Side Javascript (Javascript del lado del servidor).
+*	Perl
+*	Ruby
+*	Python
+*	Node.js
+*	C# y Visual Basic con sus tecnologías ASP/ASP.NET
 Capa de persistencia: Los datos se almacenan en alguna base de datos estándar.
 
 
